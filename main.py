@@ -11,6 +11,7 @@ from keyboards.main_menu import set_main_menu
 logger = logging.getLogger(__name__)
 
 
+
 async def main():
     logging.basicConfig(
         level=logging.INFO,
